@@ -1,0 +1,3 @@
+# PluginsIdempiereCoposa
+PluginsIdempiereCoposa
+DIRECTORIO DE REPOSITORIO DE PLUGINS COPOSA 2022-2023
